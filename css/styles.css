@@ -4,6 +4,15 @@ body{
 
 svg{
     background-color: red;
+    color: red;
+
+
+}
+
+
+svg:hover{
+    background-color: blue;
+    color: blue;
 }
 
 #arbol {
